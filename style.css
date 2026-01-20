@@ -1,0 +1,138 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.top{
+    background-image:url(Untitled-1.png);
+    width: 1525px;
+    height: 700px;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.a1{
+    color: rgb(86, 1, 1);
+    font-size: 30pt;
+    padding-top: 30px;
+    display: inline-block;
+}
+.a2{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    color: white;
+    font-weight: bold;
+    padding-top: 40px;
+    font-size:15pt;
+    margin-left: 50px;
+    
+}
+.a3{
+    margin-left: 30px;
+    margin-top:40px;
+}
+.a3 input{
+     border:none;
+     border-radius: 5px;
+     height: 25px;
+     width: 170px;
+     text-align: center;
+}
+.top2{
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 120px;
+    position: absolute;
+    top: 35%;
+
+}
+.top2 p{
+     font-size: 20pt;
+     color: rgb(255, 255, 255);
+}
+.top2 h1{
+    font-size: 40pt;
+    margin-top: 10px;
+    color: rgb(208, 255, 0);
+
+}
+.a5{
+    margin-top: 20px;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: rgb(255, 10, 247);
+
+}
+.c0{
+    display:flex;
+    gap: 30px;
+    
+}
+.b0{
+    background-color: rgba(137, 137, 133, 0.57);
+    width: 100%;
+    height: 1700px;
+}
+.box1{
+    background-color: rgba(255, 255, 255, 0.555);
+    height: 100px;
+    width: 290px;
+    margin-left: 50px;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 100px 20px;
+    
+}
+.box2{
+     background-color: rgba(41, 118, 154, 0.463);
+    height: 100px;
+    width: 290px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 100px 20px;
+
+}
+.box3{
+     background-color: rgba(255, 255, 255, 0.488);
+     height: 100px;
+    width: 290px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 100px 20px;
+
+}
+.box4{
+    background-color: rgba(16, 146, 211, 0.445);
+     height: 100px;
+    width: 290px;
+    padding: 10px;
+    text-align:center;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 100px 20px;
+}
+.d0{
+    display: flex;
+    gap: 30px;
+    margin-left:50px;
+    margin-top: 25px;
+}
